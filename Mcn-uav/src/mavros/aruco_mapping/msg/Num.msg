@@ -1,0 +1,1 @@
+bool marker_visibile
